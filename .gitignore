@@ -31,9 +31,5 @@
 *.out
 *.app
 
-# C#
-bin
-obj
-
-# ArcEngine
-ArcGISTest
+# Fold
+Debug
